@@ -1,6 +1,7 @@
 from typing import Optional
 import json
 from fastapi import FastAPI
+from youtube_transcript_api import YouTubeTranscriptApi
 
 app = FastAPI()
 
