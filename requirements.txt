@@ -1,2 +1,2 @@
 fastapi[all]
-YouTubeTranscriptApi
+youtube-transcript-api
