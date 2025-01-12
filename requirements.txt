@@ -1,5 +1,5 @@
 fastapi[all]
 youtube-transcript-api==0.6.2
-typing
-HTTPException
-Query
+typing-inspect==0.9.0
+typing_extensions==4.12.2
+
